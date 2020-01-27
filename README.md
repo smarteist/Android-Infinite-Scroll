@@ -36,6 +36,8 @@ First instaciate the ```InfiniteScroll``` .
         val infiniteScroll = InfiniteScroll()
 ```
 Then you can ```attach``` a recycler view to it.
+
+
 | Args | Description |
 | ------ | ------ |
 | RecyclerView | The recycler to be attached |
