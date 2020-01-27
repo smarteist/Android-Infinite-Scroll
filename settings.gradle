@@ -1,0 +1,2 @@
+include ':app', ':RCinfinitescroll'
+rootProject.name='Infinite Scroll'
