@@ -4,6 +4,7 @@
 
 
 This is a simple infinite scroll provider for recycler view, it can easily attach to RecyclerView and achieve this feature like a charm.
+
 ![](https://github.com/smarteist/Android-Infinite-Scroll/blob/master/untitled.gif)
 
 ## Features
