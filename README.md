@@ -1,13 +1,11 @@
 # Android Infinite (Endless) Scroll
 
-#
-#
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/smarteist/Android-Infinite-Scroll) [![Build Status](https://img.shields.io/badge/license-Apache-blue)](http://www.apache.org/licenses/LICENSE-2.0)
 
-#
+
 This is a simple infinite scroll provider for recycler view, it can easily attach to RecyclerView and achieve this feature like a charm.
 
-# Features
+## Features
 
   - Ability to attach or detach from recycler on runtime.
   - Reverse mode for chat pages or etc.
